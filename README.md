@@ -35,7 +35,7 @@ The project utilizes meta tags for social media sharing, enhancing the SEO and s
 - Centralized text and visually appealing layout
 - Responsive design elements
 
-![grant chart](https://github.com/user-attachments/assets/8ec060ae-e481-46a4-9d22-aeb14ee101e4)
+![Capture](https://github.com/user-attachments/assets/ed916ecc-9ac6-4638-89af-79106598a99e)
 
 ## Setup
 
